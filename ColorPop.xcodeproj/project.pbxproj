@@ -276,13 +276,16 @@
 				TargetAttributes = {
 					716D5E012242E10D00F8EFAF = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1140;
 					};
 					716D5E152242E10F00F8EFAF = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1140;
 						TestTargetID = 716D5E012242E10D00F8EFAF;
 					};
 					716D5E202242E10F00F8EFAF = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1140;
 						TestTargetID = 716D5E012242E10D00F8EFAF;
 					};
 				};
@@ -541,7 +544,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.ColorPop";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -559,7 +562,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.ColorPop";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -579,7 +582,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.ColorPopTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorPop.app/ColorPop";
 			};
@@ -600,7 +603,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.ColorPopTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorPop.app/ColorPop";
 			};
@@ -620,7 +623,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.ColorPopUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ColorPop;
 			};
@@ -640,7 +643,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.clean-swift.ColorPopUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ColorPop;
 			};
